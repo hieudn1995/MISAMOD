@@ -13,8 +13,8 @@ from colorama import Fore, Style
 import os
 
 last_time_used = {}
-admin_ids = [995099715, 457125834]
-TOKEN = '6765936633:AAEOOLR-YurHsWvjtV4K2BeYq_TRzCLirMQ'
+admin_ids = [5280785374]
+TOKEN = '8235363190:AAH7OWMhKSlIGagUXyTkpxdkq673xLhRuH8'
 
 
 #HÀM CLEAR SCREEN
